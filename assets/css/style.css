@@ -1,0 +1,11 @@
+#caja2 {
+    cursor: pointer;
+    
+}
+#img {
+    width: 20%;
+}
+
+#img.ampliado {
+    width: 100%; /* Tamaño al 100% */
+} 
